@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Niki Shoes-1",
+        "price": "100.50",
+        "description": " Buy Amazon  Niki Shoes",
+        "ratings": 3.5,
+        "images": [{
+            "public_id": "products/dxcr4em31",
+            "url": "https://res.cloudinary.com/djzganctl/image/upload/v1707653910/samples/ecommerce/shoes.png"
+        }],
+        "category": "Sports",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 16,
+        "revuews": []
+    },
+    {
+        "name": "Wrist Watch",
+        "price": "600.25",
+        "description": "Wear and Enjoy the time.. & Much more",
+        "ratings": 4.0,
+        "images": [{
+            "public_id": "products/f6eu65e8r7nsd",
+            "url": "https://res.cloudinary.com/djzganctl/image/upload/v1707653906/samples/ecommerce/analog-classic.jpg"
+        }],
+        "category": "Sports",
+        "seller": "Ebay",
+        "stock": 62,
+        "numOfReviews": 73,
+        "revuews": []
+    },
+    {
+        "name": "Niki-shoes-2",
+        "price": "45.20",
+        "description": "Imagine wearing these on the football field",
+        "ratings": 5.0,
+        "images": [{
+            "public_id": "products/v16gj972gh2222",
+            "url": "https://res.cloudinary.com/djzganctl/image/upload/v1707653936/samples/woman-on-a-football-field.jpg"
+        }],
+        "category": "Accessories",
+        "seller": "Daraz",
+        "stock": 71,
+        "numOfReviews": 59,
+        "revuews": []
+    },
+    {
+        "name": " Shoes-3",
+        "price": "100.50",
+        "description": "Check out waering those..",
+        "ratings": 2.2,
+        "images": [{
+            "public_id": "products/54y4yraysoxx",
+            "url": "https://res.cloudinary.com/djzganctl/image/upload/v1707653930/samples/shoe.jpg"
+        }],
+        "category": "Garments/Shoes",
+        "seller": "Ebay",
+        "stock": 100,
+        "numOfReviews": 35,
+        "revuews": []
+    },
+    {
+        "name": "Wooden Chair!",
+        "price": "450.00",
+        "description": "you are missing that in your HOME!!..",
+        "ratings": 1.9,
+        "images": [{
+            "public_id": "products/dxcde4f_dwon434em31",
+            "url": "https://res.cloudinary.com/djzganctl/image/upload/v1707653935/samples/chair.png"
+        }],
+        "category": "Accessories",
+        "seller": "Flipcart",
+        "stock": 0,
+        "numOfReviews": 160,
+        "revuews": []
+    }
+    
+]
